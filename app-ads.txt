@@ -1,0 +1,10 @@
+# AdMob app-ads.txt文件
+# 格式：广告系统域名, 发布商ID, 关系类型, 证书颁发机构ID
+
+# Google AdMob
+google.com, pub-4468784369080283, DIRECT, f08c47fec0942fa0
+
+# 如果有其他广告合作伙伴，可以按照相同格式添加
+# 例如：
+# adcolony.com, YOUR_ADCOLONY_ID, DIRECT, xxxxxxxx
+# unityads.com, YOUR_UNITY_ID, RESELLER, yyyyyyyy
