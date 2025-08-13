@@ -117,7 +117,7 @@ ty_web/
 
 ## License
 
-© 2024 TY Studio. All rights reserved.
+© 2025 TY Studio. All rights reserved.
 
 ---
 
